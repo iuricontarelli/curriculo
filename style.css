@@ -41,3 +41,14 @@ a{
         padding: 1rem;
     }
 }
+
+@media screen and (min-width: 601px) {
+    
+    .conhr{
+        display: none;
+    }
+
+    .conbr{
+        display: none;
+    }
+}
